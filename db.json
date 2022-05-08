@@ -1,5 +1,7 @@
 {
-  "version": 1.0,
-  "effectUrl": "https://firebasestorage.googleapis.com/v0/b/banubademo.appspot.com/o/effects-v1.zip?alt=media",
-  "key": "00e912e8-5a77-40b3-8e58-232d51adea71"
+  "info": {
+    "version": 1,
+    "effectUrl": "https://firebasestorage.googleapis.com/v0/b/banubademo.appspot.com/o/effects-v1.zip?alt=media",
+    "key": "00e912e8-5a77-40b3-8e58-232d51adea71"
+  }
 }
